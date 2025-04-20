@@ -1,0 +1,5 @@
+export enum ButtonKind {
+  PRIMARY = "PRIMARY",
+  OUTLINED = "OUTLINED",
+  OUTLINED_COMPACTED = "OUTLINED_COMPACTED"
+}
